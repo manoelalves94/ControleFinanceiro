@@ -1,0 +1,32 @@
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\appsettings.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Controle Financeiro.exe
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Controle Financeiro.deps.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Controle Financeiro.runtimeconfig.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Controle Financeiro.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Controle Financeiro.pdb
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.csproj.AssemblyReference.cache
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.AssemblyInfoInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.AssemblyInfo.cs
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets\msbuild.Controle Financeiro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets\msbuild.build.Controle Financeiro.props
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Controle Financeiro.props
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Controle Financeiro.props
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\scopedcss\bundle\Controle Financeiro.styles.css
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.csproj.CopyComplete
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\refint\Controle Financeiro.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.pdb
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\Controle Financeiro.genruntimeconfig.cache
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\obj\Debug\net6.0\ref\Controle Financeiro.dll
