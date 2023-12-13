@@ -30,4 +30,12 @@ public class ReceitaController : ControllerBase
 
         return Ok(readReceita);
     }
+
+    [HttpGet("/receitas")]
+    public IActionResult GetAllReceitas()
+    {
+        var readReceitas = receitaService.GetAllReceitas();
+
+        return Ok(readReceitas);
+    }
 }

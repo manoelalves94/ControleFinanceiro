@@ -5,6 +5,7 @@ namespace Controle_Financeiro.Models;
 public class Receita
 {
     [Key]
+    [Required]
     public Guid Id { get; set; }
     [Required]
     public string Descricao { get; set; }
