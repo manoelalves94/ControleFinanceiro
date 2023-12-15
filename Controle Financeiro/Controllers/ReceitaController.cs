@@ -16,7 +16,7 @@ public class ReceitaController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult CreateReceita([FromBody] CreateReceita createReceita)
+    public IActionResult CreateReceita([FromBody] CreateReceitaDto createReceita)
     {
         var readReceita = receitaService.CreateReceita(createReceita);
 
@@ -37,5 +37,13 @@ public class ReceitaController : ControllerBase
         var readReceitas = receitaService.GetAllReceitas();
 
         return Ok(readReceitas);
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeleteReceitaById(Guid id)
+    {
+        receitaService.DeleteReceitaById(id);
+
+        return NoContent();
     }
 }

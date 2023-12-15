@@ -5,6 +5,7 @@ namespace Controle_Financeiro.Interfaces;
 
 public interface IReceitaRepository
 {
-    ReadReceita AddNewReceita(CreateReceita createReceita);
-    List<ReadReceita> GetAllReceitas();
+    ReadReceitaDto AddNewReceita(Receita receita);
+    void DeleteReceita(Guid id);
+    List<ReadReceitaDto> GetAllReceitas();
 }

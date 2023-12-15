@@ -4,7 +4,8 @@ namespace Controle_Financeiro.Interfaces;
 
 public interface IReceitaService
 {
-    ReadReceita CreateReceita(CreateReceita createReceita);
-    List<ReadReceita> GetAllReceitas();
-    ReadReceita GetReceitaById(Guid id);
+    ReadReceitaDto CreateReceita(CreateReceitaDto createReceita);
+    void DeleteReceitaById(Guid id);
+    List<ReadReceitaDto> GetAllReceitas();
+    ReadReceitaDto GetReceitaById(Guid id);
 }

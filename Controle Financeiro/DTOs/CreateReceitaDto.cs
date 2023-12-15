@@ -2,7 +2,7 @@
 
 namespace Controle_Financeiro.DTOs;
 
-public class CreateReceita
+public class CreateReceitaDto
 {
     [Required]
     public string Descricao { get; set; }

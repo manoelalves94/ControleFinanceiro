@@ -11,6 +11,8 @@ var connectionString = builder.Configuration.GetConnectionString("ControleFinanc
 builder.Services.AddDbContext<ControleFinanceiroContext>(opts =>
     opts.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 // Add services to the container.
 
 builder.Services.AddControllers();

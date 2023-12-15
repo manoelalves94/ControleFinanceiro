@@ -40,3 +40,5 @@ C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle 
 C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\manoe\OneDrive\Documentos\Projetos Github\Controle Financeiro\Controle Financeiro\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

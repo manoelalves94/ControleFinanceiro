@@ -1,4 +1,5 @@
-﻿using Controle_Financeiro.Data;
+﻿using AutoMapper;
+using Controle_Financeiro.Data;
 using Controle_Financeiro.DTOs;
 using Controle_Financeiro.Interfaces;
 using Controle_Financeiro.Models;
@@ -8,31 +9,35 @@ namespace Controle_Financeiro.Repository;
 public class ReceitaRepository : IReceitaRepository
 {
     private ControleFinanceiroContext _context;
+    private IMapper _mapper;
 
-    public ReceitaRepository(ControleFinanceiroContext context)
+    public ReceitaRepository(ControleFinanceiroContext context, IMapper mapper)
     {
         _context = context;
+        _mapper = mapper;
     }
 
-    public ReadReceita AddNewReceita(CreateReceita createReceita)
+    public ReadReceitaDto AddNewReceita(Receita receita)
     {
-        var receita = new Receita { Data = createReceita.Data, Descricao = createReceita.Descricao, Valor = createReceita.Valor };
         _context.Receitas.Add(receita);
         _context.SaveChanges();
 
-        var readReceita = new ReadReceita { Id = receita.Id, Data = receita.Data, Descricao = receita.Descricao, Valor = receita.Valor };
+        var readReceita = _mapper.Map<ReadReceitaDto>(receita);
         return readReceita;
     }
 
-    public List<ReadReceita> GetAllReceitas()
+    public void DeleteReceita(Guid id)
+    {
+        var receita = _context.Receitas.First(r => r.Id == id);
+
+        _context.Receitas.Remove(receita);
+        _context.SaveChanges();
+    }
+
+    public List<ReadReceitaDto> GetAllReceitas()
     {
         var receitas = _context.Receitas.ToList();
-        var readReceitas = new List<ReadReceita>();
-
-        foreach (var receita in receitas)
-        {
-            readReceitas.Add(new ReadReceita { Id = receita.Id, Data = receita.Data, Descricao = receita.Descricao, Valor = receita.Valor });
-        }
+        var readReceitas = _mapper.Map<List<ReadReceitaDto>>(receitas);
 
         return readReceitas;
     }
